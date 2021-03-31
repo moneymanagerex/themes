@@ -3,7 +3,7 @@
 MMEX supports themes that can change the HTML layout and icons used within the application. The application is
 shipped with a number of 'system' themes, the content of which can be viewed within the [system-themes](system-themes/) folder
 
-Feel free to share your themes here in the [User Themes](other-themes/README.md) area.
+Feel free to share your themes here in the [User Themes](other-themes/) area.
 
 ## Theme contents
 
@@ -13,7 +13,7 @@ A theme consists of the following files which must be present in the theme. The 
     - _theme.json (see below for valid JSON)
     - _theme.png (A 300x150 image that showcases the theme and will be displayed against the theme in the application Theme Manager)
 - A master.css file used for HTML formatting, accompanyimng files for the master.css file may also be included (e.g. background.png files)
-- Icons that make up the theme (see [Default Theme](system-themes/default/README.md) for detail on teh full list of icons)
+- Icons that make up the theme (see [Default Theme](system-themes/default/) for detail on teh full list of icons)
 
 ## JSON content
 
