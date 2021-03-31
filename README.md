@@ -1,7 +1,7 @@
 # MoneyManager EX Themes
 
 MMEX supports themes that can change the HTML layout and icons used within the application. The application is
-shipped with a number of 'system' themes, the content of which can be viewed within the [system-themes](system-themes/README.md) folder
+shipped with a number of 'system' themes, the content of which can be viewed within the [system-themes](system-themes/) folder
 
 Feel free to share your themes here in the [User Themes](other-themes/README.md) area.
 
