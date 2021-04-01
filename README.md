@@ -7,13 +7,13 @@ Feel free to share your themes here in the [User Themes](other-themes/) area.
 
 ## Theme contents
 
-A theme consists of the following files which must be present in the theme. The theme itself should be a zip file with an extensions .mmextheme. The folder hierachy within the theme is optional.
+A theme consists of the following files which must be present in the theme. The theme itself should have an **.mmextheme** extension and by built as a zip file. Within the file any folder hierachy can be used.
 
 - Theme Meta Data
     - _theme.json (see below for valid JSON)
     - _theme.png (A 300x150 image that showcases the theme and will be displayed against the theme in the application Theme Manager)
 - A master.css file used for HTML formatting, accompanyimng files for the master.css file may also be included (e.g. background.png files)
-- Icons that make up the theme (see [Default Theme](system-themes/default/) for detail on teh full list of icons)
+- Icons that make up the theme (see [Default Theme](system-themes/default/) for detail on the full list of icons)
 
 ## JSON content
 
