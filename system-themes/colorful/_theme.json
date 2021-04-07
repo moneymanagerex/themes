@@ -1,5 +1,8 @@
-{ "name": "Colorful",
+{ 
+  "theme": {
+    "name": "Colorful",
     "author": "MMEX Team",
     "description": "A splash of color to the icons, reminescent of the old MMEX icons",
     "url": "https://github.com/moneymanagerex/themes/blob/master/system-themes/colorful/README.md"
-  } 
+  }
+}

@@ -1,5 +1,8 @@
-{ "name": "Yellow Blue",
+{ 
+  "theme": {
+    "name": "Yellow Blue",
     "author": "MMEX Team",
     "description": "A colorful theme based around yellow and blue highlights",
     "url": "https://github.com/moneymanagerex/themes/blob/master/system-themes/yellow-blue/README.md"
-  } 
+  }
+}
