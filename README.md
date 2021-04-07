@@ -20,15 +20,32 @@ A theme consists of the following files which must be present in the theme. The 
 ### Example JSON
 
 ```json
-{ "name": "MMEX Default Theme",
-    "author": "MMEX Team",
-    "description": "This is the default MMEX theme and uses the MMEX colour scheme. It is a simple 'duo color' theme",
-    "url": "https://github.com/moneymanagerex/moneymanagerex/blob/master/resources/themes/default/readme.md"
+{
+    "theme": { 
+        "name": "MMEX Default Theme",
+        "author": "MMEX Team",
+        "description": "This is the default MMEX theme and uses the MMEX colour scheme. It is a simple 'duo color' theme",
+        "url": "https://github.com/moneymanagerex/moneymanagerex/blob/master/resources/themes/default/readme.md"
+    },
+    "colors": {
+        "navigationPanel": "#F0F0F0",
+        "listFutureDate": "#FF0000"
+    }
 }
 ```
 
-- name = The full theme name
-- author = The name of the team or individual responsible for theme creation
-- description = A short description of the theme
-- url = A URL that links to more detail about the theme
+### JSON Options supported
 
+entry | Mandatory? | Default | Usage
+--- | --- | --- | ---
+/theme/name | Y | | The full theme name
+theme/author | N | Empty | The name of the team or individual responsible for theme creation
+theme/description | Y | | A short description of the theme
+theme/url | N | Empty | A URL that links to more detail about the theme
+/colors/navigationPanel | N | #FFFFFF |Color for the navigation panel background
+/colors/listPanel | N | #FFFFFF | Color for the list panel background
+/colors/listAlternative1 | N | #F0F5EB | Color for the list alternative row color (used in all but "All Transactions" view)
+/colors/listAlternative2 | N | #E0E7F0 | Color for the list alternative row color (used in "All Transactions" view)
+/colors/listTotal | N | #7486A8 | Color for total rows in list views
+/colors/listBorder | N | #000000 | Color for list borders
+/colors/listFutureDate | N | #7486A8 | Color for future transactions
