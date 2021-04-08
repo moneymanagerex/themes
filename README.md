@@ -29,7 +29,11 @@ A theme consists of the following files which must be present in the theme. The 
     },
     "colors": {
         "navigationPanel": "#F0F0F0",
-        "listFutureDate": "#FF0000"
+        "listFutureDate": "#FF0000",
+        "reports": {
+            "credit": "#00FF00",
+            "debit": "#FF0000"
+        }
     }
 }
 ```
@@ -49,3 +53,6 @@ theme/url | N | Empty | A URL that links to more detail about the theme
 /colors/listTotal | N | #7486A8 | Color for total rows in list views
 /colors/listBorder | N | #000000 | Color for list borders
 /colors/listFutureDate | N | #7486A8 | Color for future transactions
+/colors/reports/credit | N | #50B381 | Color for representing income/credits is reports
+/colors/reports/debit | N | #F75E51 | Color for representing expense/debits is reports
+/colors/reports/palette | N | #008FFB #00E396 #FEB019 #FF4560 #775DD0 #3F51B5 #03A9F4 #4cAF50 #F9CE1D #FF9800 #33B2DF #546E7A #D4526E #13D8AA #A5978B #4ECDC4 #81D4FA #546E7A #FD6A6A #2B908F #F9A3A4 #90EE7E #FA4443 #69D2E7 #449DD1 #F86624 | The range of colors used when drawing graphs in the reports
