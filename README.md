@@ -53,6 +53,7 @@ theme/url | N | Empty | A URL that links to more detail about the theme
 /colors/listTotal | N | #7486A8 | Color for total rows in list views
 /colors/listBorder | N | #000000 | Color for list borders
 /colors/listFutureDate | N | #7486A8 | Color for future transactions
-/colors/reports/credit | N | #50B381 | Color for representing income/credits is reports
-/colors/reports/debit | N | #F75E51 | Color for representing expense/debits is reports
+/colors/reports/credit | N | #50B381 | Color for representing income/credits in reports
+/colors/reports/debit | N | #F75E51 | Color for representing expense/debits in reports
+/colors/reports/delta | N | #008FFB | Color for representing difference between income and expense in reports
 /colors/reports/palette | N | #008FFB #00E396 #FEB019 #FF4560 #775DD0 #3F51B5 #03A9F4 #4cAF50 #F9CE1D #FF9800 #33B2DF #546E7A #D4526E #13D8AA #A5978B #4ECDC4 #81D4FA #546E7A #FD6A6A #2B908F #F9A3A4 #90EE7E #FA4443 #69D2E7 #449DD1 #F86624 | The range of colors used when drawing graphs in the reports
