@@ -46,8 +46,8 @@ entry | Mandatory? | Default | Usage
 theme/author | N | Empty | The name of the team or individual responsible for theme creation
 theme/description | Y | | A short description of the theme
 theme/url | N | Empty | A URL that links to more detail about the theme
-/colors/navigationPanel | N | #FFFFFF |Color for the navigation panel background
-/colors/listPanel | N | #FFFFFF | Color for the list panel background
+/colors/navigationPanel | N | Empty |Color for the navigation panel background
+/colors/listPanel | N | Empty | Color for the list panel background
 /colors/listAlternative1 | N | #F0F5EB | Color for the list alternative row color (used in all but "All Transactions" view)
 /colors/listAlternative2 | N | #E0E7F0 | Color for the list alternative row color (used in "All Transactions" view)
 /colors/listTotal | N | #7486A8 | Color for total rows in list views
