@@ -1,0 +1,25 @@
+{
+    "theme": {
+        "name": "Dark Mode",
+        "author": "MMEX Team",
+        "description": "Dark Mode Theme",
+        "url": "https://github.com/moneymanagerex/themes/blob/master/system-themes/dark-mode/README.md"
+    },
+    "colors": {
+        "navigationPanelFont": "#FFFFFF",
+        "navigationPanel": "#07072B",
+        "listPanel": "#1D1D1D",
+        "listAlternative1": "#343434",
+        "listAlternative2": "#343434",
+        "listTotal": "#2D2D2D",
+        "listBorder": "#000000",
+        "listFutureDate": "#AAAAAA",
+        "reports": {
+            "altRow": "#343434",
+            "credit": "#50B381",
+            "debit": "#F75E51",
+            "delta": "#008FFB",
+            "foreColor": "#FFFFFF"           
+        }
+    }
+}
