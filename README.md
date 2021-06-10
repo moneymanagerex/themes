@@ -49,10 +49,11 @@ theme/url | N | Empty | A URL that links to more detail about the theme
 /colors/navigationPanelFont | N | Empty (System default) | Color for the navigation panel background
 /colors/navigationPanel | N | Empty (System default) |Color for the navigation panel background
 /colors/listPanel | N | Empty (System default) | Color for the list panel background
-/colors/listAlternative1 | N | #F0F5EB | Color for the list alternative row color (used in all but "All Transactions" view)
-/colors/listAlternative2 | N | #E0E7F0 | Color for the list alternative row color (used in "All Transactions" view)
-/colors/listTotal | N | #7486A8 | NOTE: Not currently used
-/colors/listBorder | N | #000000 | Color for list borders
+/colors/list | N | #FFFFFF | Color for the standard list row background color
+/colors/listAlternative1 | N | #F0F5EB | Color for the list alternative row background color (used in all but "All Transactions" view)
+/colors/listAlternative2 | N | #E0E7F0 | Color for the list alternative row cbackgroundolor (used in "All Transactions" view)
+/colors/listTotal | N | #7486A8 | Color for total rows in list views
+/colors/listBorder | N | #000000 | NOTE: Not currently used
 /colors/listFutureDate | N | #7486A8 | Color for future transactions
 /colors/reports/altRow | N | #F5F5F5 | Color used for alternate rows in HTML reports
 /colors/reports/credit | N | #50B381 | Color for representing income/credits in reports
