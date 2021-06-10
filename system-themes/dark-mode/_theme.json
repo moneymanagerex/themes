@@ -8,6 +8,7 @@
     "colors": {
         "navigationPanelFont": "#FFFFFF",
         "navigationPanel": "#07072B",
+        "list": "#1D1D1D",
         "listPanel": "#1D1D1D",
         "listAlternative1": "#343434",
         "listAlternative2": "#343434",
