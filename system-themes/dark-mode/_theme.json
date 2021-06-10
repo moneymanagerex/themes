@@ -2,7 +2,7 @@
     "theme": {
         "name": "Dark Mode",
         "author": "MMEX Team",
-        "description": "Dark Mode Theme. Please restart MMEX when switching the OS light/dark mode setting.<br><b>NOTE: On windows all window components cannot be switched to use dark colors and may remain gray</b>",
+        "description": "Dark Mode Theme. Please restart MMEX when switching the OS light/dark mode setting.<br><br><b>NOTE: On Windows OS all window components cannot be switched to use dark colors and may remain gray</b>",
         "url": "https://github.com/moneymanagerex/themes/blob/master/system-themes/dark-mode/README.md"
     },
     "colors": {
