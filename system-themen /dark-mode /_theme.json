@@ -15,6 +15,10 @@
         "listTotal": "#2D2D2D",
         "listBorder": "#000000",
         "listFutureDate": "#AAAAAA",
+        "htmlPanel": {
+            "background": "#1D1D1D",
+            "foreColor": "#FFFFFF"
+        },
         "reports": {
             "altRow": "#343434",
             "credit": "#50B381",
