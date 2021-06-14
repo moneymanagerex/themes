@@ -55,6 +55,8 @@ theme/url | N | Empty | A URL that links to more detail about the theme
 /colors/listTotal | N | #7486A8 | Color for total rows in list views
 /colors/listBorder | N | #000000 | NOTE: Not currently used
 /colors/listFutureDate | N | #7486A8 | Color for future transactions
+/colors/htmlpanel/background | N | Empty (System default) | Color for background of HTML (wxHtmlWindow) panels
+/colors/htmlpanel/foreColor | N | Empty (System default) | Color for foreground of HTML (wxHtmlWindow) panels   
 /colors/reports/altRow | N | #F5F5F5 | Color used for alternate rows in HTML reports
 /colors/reports/credit | N | #50B381 | Color for representing income/credits in reports
 /colors/reports/debit | N | #F75E51 | Color for representing expense/debits in reports
