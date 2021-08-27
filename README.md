@@ -15,6 +15,13 @@ A theme consists of the following files which must be present in the theme. The 
 - A master.css file used for HTML formatting, accompanyimng files for the master.css file may also be included (e.g. background.png files)
 - Icons that make up the theme (see [Default Theme](system-themes/default/) for detail on the full list of icons)
 
+A theme file can hold two variants of master.css and icons, one use for the OS 'Light/Normal' mode and one for 'Dark' mode. The actual use of the 'Dark' mode variant depends upon the OS version. At time of writing this is only supported on MacOs 10.14+.
+
+### Notes for 'Dark' Mode
+
+- The name of the the master.css file and icon names for this mode should be prefixed by **dark-**
+- The JSON for this mode is within a 'dark' section, see below.
+
 ## JSON content
 
 ### Example JSON
@@ -22,9 +29,9 @@ A theme consists of the following files which must be present in the theme. The 
 ```json
 {
     "theme": { 
-        "name": "MMEX Default Theme",
+        "name": "MMEX Theme",
         "author": "MMEX Team",
-        "description": "This is the default MMEX theme and uses the MMEX colour scheme. It is a simple 'duo color' theme",
+        "description": "This is a sample theme",
         "url": "https://github.com/moneymanagerex/moneymanagerex/blob/master/resources/themes/default/readme.md"
     },
     "colors": {
@@ -34,6 +41,30 @@ A theme consists of the following files which must be present in the theme. The 
             "credit": "#00FF00",
             "debit": "#FF0000"
         }
+    },
+    "dark": {
+      "colors": {
+        "navigationPanelFont": "#FFFFFF",
+        "navigationPanel": "#444444",
+        "list": "#1D1D1D",
+        "listPanel": "#1D1D1D",
+        "listAlternative1": "#343434",
+        "listAlternative2": "#343434",
+        "listTotal": "#2D2D2D",
+        "listBorder": "#000000",
+        "listFutureDate": "#AAAAAA",
+        "htmlPanel": {
+            "background": "#1D1D1D",
+            "foreColor": "#FFFFFF"
+        },
+        "reports": {
+            "altRow": "#343434",
+            "credit": "#50B381",
+            "debit": "#F75E51",
+            "delta": "#008FFB",
+            "foreColor": "#FFFFFF"           
+        }
+      }
     }
 }
 ```
