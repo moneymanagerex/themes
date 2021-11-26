@@ -979,7 +979,6 @@ a.badge:focus {
     box-shadow: 5px 5px 15px rgba(0,0,0,0.5); /* shadow parameters */
     padding: 5px;
     margin: 10px;
-    overflow: auto;
     height: 100%;
     border: 2px solid rgba(25, 79, 130,0.5);
 }
