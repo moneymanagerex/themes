@@ -970,8 +970,16 @@ a.badge:focus {
 .shadow {
     padding: 5px;
     margin: 10px;
+    overflow: auto;
     height:100%;
     border:1px solid black;
+}
+
+.shadowGraph {
+  padding: 5px;
+  margin: 10px;
+  height:100%;
+  border:1px solid black;
 }
 
 .shadowTitle {
