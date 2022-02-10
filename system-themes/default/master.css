@@ -1031,3 +1031,23 @@ div.pie {
   height:100%;
 
 }
+
+button {
+  border: 1px solid grey;
+  background: #449d44;
+  border-radius: 5px;
+  padding: 5px 10px;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+button {
+  transition-duration: 0.4s;
+}
+button:hover {
+  background-color: #5cb85c;
+  color: white;
+}
