@@ -60,15 +60,11 @@ WEB | <img src="light/controls/WEB.svg" width="16">  | <img src="light/controls/
 enum | x16 | x24 | x32 | x48
 :-- | --- | --- | --- | ---
 ALLTRANSACTIONS | <img src="light/navigation/ALLTRANSACTIONS.svg" width="16">  | <img src="light/navigation/ALLTRANSACTIONS.svg" width="24">  | <img src="light/navigation/ALLTRANSACTIONS.svg" width="32">  | <img src="light/navigation/ALLTRANSACTIONS.svg" width="48"> 
-ASSET_CLOSED | <img src="light/navigation/ASSET_CLOSED.svg" width="16">  | <img src="light/navigation/ASSET_CLOSED.svg" width="24">  | <img src="light/navigation/ASSET_CLOSED.svg" width="32">  | <img src="light/navigation/ASSET_CLOSED.svg" width="48"> 
 ASSET_NORMAL | <img src="light/navigation/ASSET_NORMAL.svg" width="16">  | <img src="light/navigation/ASSET_NORMAL.svg" width="24">  | <img src="light/navigation/ASSET_NORMAL.svg" width="32">  | <img src="light/navigation/ASSET_NORMAL.svg" width="48"> 
 BUDGET | <img src="light/navigation/BUDGET.svg" width="16">  | <img src="light/navigation/BUDGET.svg" width="24">  | <img src="light/navigation/BUDGET.svg" width="32">  | <img src="light/navigation/BUDGET.svg" width="48"> 
-CASH_CLOSED | <img src="light/navigation/CASH_CLOSED.svg" width="16">  | <img src="light/navigation/CASH_CLOSED.svg" width="24">  | <img src="light/navigation/CASH_CLOSED.svg" width="32">  | <img src="light/navigation/CASH_CLOSED.svg" width="48"> 
 CASH_NORMAL | <img src="light/navigation/CASH_NORMAL.svg" width="16">  | <img src="light/navigation/CASH_NORMAL.svg" width="24">  | <img src="light/navigation/CASH_NORMAL.svg" width="32">  | <img src="light/navigation/CASH_NORMAL.svg" width="48"> 
-CC_CLOSED | <img src="light/navigation/CC_CLOSED.svg" width="16">  | <img src="light/navigation/CC_CLOSED.svg" width="24">  | <img src="light/navigation/CC_CLOSED.svg" width="32">  | <img src="light/navigation/CC_CLOSED.svg" width="48"> 
 CC_NORMAL | <img src="light/navigation/CC_NORMAL.svg" width="16">  | <img src="light/navigation/CC_NORMAL.svg" width="24">  | <img src="light/navigation/CC_NORMAL.svg" width="32">  | <img src="light/navigation/CC_NORMAL.svg" width="48"> 
 FAVOURITE | <img src="light/navigation/FAVOURITE.svg" width="16">  | <img src="light/navigation/FAVOURITE.svg" width="24">  | <img src="light/navigation/FAVOURITE.svg" width="32">  | <img src="light/navigation/FAVOURITE.svg" width="48"> 
-LOAN_CLOSED | <img src="light/navigation/LOAN_ACC_CLOSED.svg" width="16">  | <img src="light/navigation/LOAN_ACC_CLOSED.svg" width="24">  | <img src="light/navigation/LOAN_ACC_CLOSED.svg" width="32">  | <img src="light/navigation/LOAN_ACC_CLOSED.svg" width="48"> 
 LOAN_NORMAL | <img src="light/navigation/LOAN_ACC_NORMAL.svg" width="16">  | <img src="light/navigation/LOAN_ACC_NORMAL.svg" width="24">  | <img src="light/navigation/LOAN_ACC_NORMAL.svg" width="32">  | <img src="light/navigation/LOAN_ACC_NORMAL.svg" width="48"> 
 NAV_FILTER | <img src="light/navigation/NAV_FILTER.svg" width="16">  | <img src="light/navigation/NAV_FILTER.svg" width="24">  | <img src="light/navigation/NAV_FILTER.svg" width="32">  | <img src="light/navigation/NAV_FILTER.svg" width="48"> 
 NAV_GRM | <img src="light/navigation/NAV_GRM.svg" width="16">  | <img src="light/navigation/NAV_GRM.svg" width="24">  | <img src="light/navigation/NAV_GRM.svg" width="32">  | <img src="light/navigation/NAV_GRM.svg" width="48"> 
@@ -76,12 +72,11 @@ NAV_HELP | <img src="light/navigation/NAV_HELP.svg" width="16">  | <img src="lig
 NAV_HOME | <img src="light/navigation/NAV_HOME.svg" width="16">  | <img src="light/navigation/NAV_HOME.svg" width="24">  | <img src="light/navigation/NAV_HOME.svg" width="32">  | <img src="light/navigation/NAV_HOME.svg" width="48"> 
 PIE_CHART | <img src="light/navigation/PIE_CHART.svg" width="16">  | <img src="light/navigation/PIE_CHART.svg" width="24">  | <img src="light/navigation/PIE_CHART.svg" width="32">  | <img src="light/navigation/PIE_CHART.svg" width="48"> 
 RECURRING | <img src="light/navigation/RECURRING.svg" width="16">  | <img src="light/navigation/RECURRING.svg" width="24">  | <img src="light/navigation/RECURRING.svg" width="32">  | <img src="light/navigation/RECURRING.svg" width="48"> 
-SAVINGS_CLOSED | <img src="light/navigation/SAVINGS_CLOSED.svg" width="16">  | <img src="light/navigation/SAVINGS_CLOSED.svg" width="24">  | <img src="light/navigation/SAVINGS_CLOSED.svg" width="32">  | <img src="light/navigation/SAVINGS_CLOSED.svg" width="48"> 
 SAVINGS_NORMAL | <img src="light/navigation/SAVINGS_NORMAL.svg" width="16">  | <img src="light/navigation/SAVINGS_NORMAL.svg" width="24">  | <img src="light/navigation/SAVINGS_NORMAL.svg" width="32">  | <img src="light/navigation/SAVINGS_NORMAL.svg" width="48"> 
-STOCKS_CLOSED | <img src="light/navigation/STOCKS_CLOSED.svg" width="16">  | <img src="light/navigation/STOCKS_CLOSED.svg" width="24">  | <img src="light/navigation/STOCKS_CLOSED.svg" width="32">  | <img src="light/navigation/STOCKS_CLOSED.svg" width="48"> 
 STOCKS_NORMAL | <img src="light/navigation/STOCKS_NORMAL.svg" width="16">  | <img src="light/navigation/STOCKS_NORMAL.svg" width="24">  | <img src="light/navigation/STOCKS_NORMAL.svg" width="32">  | <img src="light/navigation/STOCKS_NORMAL.svg" width="48"> 
-TERM_CLOSED | <img src="light/navigation/TERM_CLOSED.svg" width="16">  | <img src="light/navigation/TERM_CLOSED.svg" width="24">  | <img src="light/navigation/TERM_CLOSED.svg" width="32">  | <img src="light/navigation/TERM_CLOSED.svg" width="48"> 
 TERM_NORMAL | <img src="light/navigation/TERM_NORMAL.svg" width="16">  | <img src="light/navigation/TERM_NORMAL.svg" width="24">  | <img src="light/navigation/TERM_NORMAL.svg" width="32">  | <img src="light/navigation/TERM_NORMAL.svg" width="48"> 
+ACCOUNT_CLOSED | <img src="light/navigation/ACCOUNT_CLOSED.svg" width="16">  | <img src="light/navigation/ACCOUNT_CLOSED.svg" width="24">  | <img src="light/navigation/ACCOUNT_CLOSED.svg" width="32">  | <img src="light/navigation/ACCOUNT_CLOSED.svg" width="48"> 
+
 
 ### Settings icons 
 
