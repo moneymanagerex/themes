@@ -1006,7 +1006,7 @@ a.badge:focus {
 .shadowGraph.hover,
 .shadowTitle:hover {
     box-shadow : 0 0 25px rgba(0,0,0,0.4);
-    transform: translateY(-1px);
+    /* transform: translateY(-1px); */
 }
  
 header {
