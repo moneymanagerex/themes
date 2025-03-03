@@ -9,6 +9,7 @@
     "colors": {
         "navigationPanelFont": "#FFFFFF",
         "navigationPanel": "#444444",
+        "toolbar": "#444444",
         "list": "#1D1D1D",
         "listPanel": "#1D1D1D",
         "listAlternative1": "#343434",
